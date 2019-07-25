@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+#use_frameworks!
+target '自适应高度HeaderView' do
+pod 'Masonry'
+end
+
