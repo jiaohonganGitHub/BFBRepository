@@ -30,6 +30,7 @@
 }
 
 - (void)setupUI{
+    NSLog(@"hahahahahahah");
     
     [self.view addSubview:self.tableView];
 }
